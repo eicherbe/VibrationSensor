@@ -7,3 +7,4 @@ The code given in this repository will count the number of times the chip output
 
 ## Operation
 to run the code, wire the circuit as shown in the wiring diagram.
+![image](https://github.com/eicherbe/VibrationSensor/assets/117787740/04058c4a-0d9e-4bb8-905b-b64b7d3837db)
